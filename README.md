@@ -1,6 +1,6 @@
 # SPOT-Trip
 
-This is the official implementation of our paper titled **"Learning Static and Dynamic User Preferences for Out-of-Town Trip Recommendation"**.
+This is the official implementation of our paper titled **"SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation"**.
 
 Pytorch versions are provided.
 
