@@ -1,9 +1,6 @@
-# (NeurIPS'25) SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation
+# (NeurIPS'25) [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](https://arxiv.org/abs/2506.01705)
 
 This repository contains the code for our NeurIPS 2025 [paper](https://arxiv.org/abs/2506.01705), where we propose **SPOT-Trip**, a dual-preference driven framework for out-of-town trip recommendation.  
-Pytorch versions are provided.
-
-> Pytorch: https://pytorch.org
 
 > If you find our work useful in your research, please consider giving a star ⭐ and citing 📖 our paper:
 
