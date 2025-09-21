@@ -1,7 +1,7 @@
 # (NeurIPS'25) [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](https://arxiv.org/abs/2506.01705)
 
 <p align="center">
-  <img src="figure/framework.png" alt="SPOT-Trip Framework" width="1000"/>
+  <img src="figure/framework.png" alt="SPOT-Trip Framework" width="750"/>
 </p>
 
 > If you find our work useful in your research, please consider giving a star ⭐ and citing 📖 our paper:
@@ -9,7 +9,7 @@
 ```bibtex
 @inproceedings{liu2025spottrip,
   title={{SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation}},
-  author={Yinghui Liu and Hao Miao and Guojiang Shen and Yan Zhao and Xiangjie Kong and Ivan Lee},
+  author={Liu, Yinghui and Miao, Hao and Shen, Guojiang and Zhao, Yan and Kong, Xiangjie and Lee, Ivan},
   booktitle={{NeurIPS}},
   year={2025}
 }
