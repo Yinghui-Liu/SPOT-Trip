@@ -1,6 +1,5 @@
 # (NeurIPS'25) [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](https://arxiv.org/abs/2506.01705)
 
-## Framework
 <p align="center">
   <img src="figure/framework.png" alt="SPOT-Trip Framework" width="1000"/>
 </p>
